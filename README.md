@@ -15,7 +15,7 @@
   ## Hi there 👋
   
   About me:  
-  ### I am a fullstack web and mobile apps developper  
+  ### I am a fullstack software engineer
   
    🌱 I’m currently learning flutter and nodejs  
    👯 I’m looking to collaborate on open source projects  
